@@ -14,4 +14,4 @@ ____
 
 ## Как открыть/запустить
 
-[Открыть](https://lms.skillfactory.ru/ "Открыть в Github Pages") в Github Pages
+[Открыть](https://denor74.github.io/SF-PR-5-11/ "Открыть в Github Pages") в Github Pages
